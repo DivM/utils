@@ -1,5 +1,5 @@
 # Run the following command to download this script
-# curl -fsSL https://raw.githubusercontent.com/DivM/utils/main/dotfiles-setup-ubuntu.sh -o dotfiles-setup-ubuntu.sh
+# cd ~/Downloads; curl -fsSL https://raw.githubusercontent.com/DivM/utils/main/dotfiles-setup-ubuntu.sh -o dotfiles-setup-ubuntu.sh; /bin/bash dotfiles-setup-ubuntu.sh
 
 # install git
 sudo apt-get install git -y
